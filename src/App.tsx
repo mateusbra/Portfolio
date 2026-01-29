@@ -6,7 +6,7 @@ export default function App() {
       <div className="mt-30">
         {/* Foto de perfil */}
         <img
-          src="/src/assets/profile.jpeg"
+          src="/public/profile.jpeg"
           alt="Foto de perfil"
           className="w-40 h-40 rounded-full object-cover"
         />
