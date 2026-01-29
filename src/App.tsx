@@ -208,6 +208,9 @@ export default function App() {
               <span>AUTENTICAÇÃO (JWT)</span>
             </div>
             <div className="bg-neutral-700 rounded-sm px-2 py-1">
+              <span>DESIGN DDD</span>
+            </div>
+            <div className="bg-neutral-700 rounded-sm px-2 py-1">
               <span>PRISMA ORM</span>
             </div>
           </div>
@@ -243,7 +246,7 @@ export default function App() {
             </div>
           </div>
           <h3 className="mt-10 text-xl font-bold text-white mb-6">
-            PRÁTICAS DE ENGENHARIA
+            Práticas de engenharia
           </h3>
           <div className="flex flex-row flex-wrap gap-4 text-white text-sm">
             <div className="bg-neutral-700 rounded-sm px-2 py-1">
@@ -254,9 +257,6 @@ export default function App() {
             </div>
             <div className="bg-neutral-700 rounded-sm px-2 py-1">
               <span>DEBUGGING</span>
-            </div>
-            <div className="bg-neutral-700 rounded-sm px-2 py-1">
-              <span>DESIGN DDD</span>
             </div>
             <div className="bg-neutral-700 rounded-sm px-2 py-1">
               <span>REFATORAMENTO DE CÓDIGO</span>
