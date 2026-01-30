@@ -14,14 +14,14 @@ export default function App() {
       {/* Título */}
       <h1 className="text-2xl md:text-3xl font-semibold text-center">
         Engenheiro Full-Stack
-        <span className="text-[#3178C6]">TypeScript</span>,{" "}
+        <span className="text-[#3178C6]"> TypeScript</span>,{" "}
         <span className="text-[#61DAFB]">React</span> e{" "}
         <span className="text-[#339933]">Node.js</span>
       </h1>
 
       {/* Descrição */}
       <p className="text-3xl text-center text-gray-400 max-w-5xl ">
-        Trabalho com tecnologias como TypeScript, Next.js, React, Tailwind CSS, Node.js, Express e ferramentas de IA.
+        Trabalho com tecnologias como Next.js, React, Tailwind CSS, Node.js, Express e ferramentas de IA.
       </p>
 
       {/* Botões */}
