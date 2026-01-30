@@ -245,7 +245,7 @@ export default function App() {
               <span>LINUX</span>
             </div>
             <div className="bg-neutral-700 rounded-sm px-2 py-1">
-              <span>ESLint</span>
+              <span>ESLINT</span>
             </div>
           </div>
           <h3 className="mt-10 text-xl font-bold text-white mb-6">
